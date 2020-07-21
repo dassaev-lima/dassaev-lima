@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 👋 Dassaev Lima
 
 - Sou desenvolvedor web e Atualmente estou trabalhando com geração de API's Restful, automatização de tarefas usando selenium e 
-criação de sistemas web com Python - e fameworks backend Django e Flask
+criação de sistemas web com Python - e frameworks backend Django e Flask
 
 - Também desenvolvo aplicações como sites e ecommerces usando Wordpress e Elementor.
 
