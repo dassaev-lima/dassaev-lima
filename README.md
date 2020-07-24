@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Dassaev Lima
+### :man_technologist: Dassaev Lima
 
-- Sou desenvolvedor web e Atualmente estou trabalhando com geração de API's Restful, automatização de tarefas usando selenium e 
+- :computer: Sou desenvolvedor web e Atualmente estou trabalhando com geração de API's Restful, automatização de tarefas usando selenium e 
 criação de sistemas web com Python - e frameworks backend Django e Flask
 
-- Também desenvolvo aplicações como sites e ecommerces usando Wordpress e Elementor.
+- :computer: Também desenvolvo aplicações como sites e ecommerces usando Wordpress e Elementor.
 
 - Meu portfólio: <a href="https://dassaev-lima.github.io/" target="_blank">portfólio</a> 
 ![front-site-pessoal](https://user-images.githubusercontent.com/48656494/88094634-456d8a00-cb6a-11ea-84a5-4e5786bb7727.png)
