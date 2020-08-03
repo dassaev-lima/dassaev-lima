@@ -21,5 +21,3 @@ criação de sistemas web com Python - e frameworks backend Django e Flask
 
 - :computer: Também desenvolvo aplicações como sites e ecommerces usando Wordpress e Elementor.
 
-- Meu portfólio: <a href="https://dassaev-lima.github.io/" target="_blank">portfólio</a> 
-![front-site-pessoal](https://user-images.githubusercontent.com/48656494/88094634-456d8a00-cb6a-11ea-84a5-4e5786bb7727.png)
