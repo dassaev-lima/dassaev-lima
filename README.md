@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### :man_technologist: Dassaev Lima
 
-- :computer: Sou desenvolvedor web e Atualmente estou estudando criação de chatbots com Dialogflow, sistemas web com Python - e Vue.js.
+- :computer: Sou desenvolvedor web e Atualmente estou estudando sistemas web com Python - e Vue.js.
 
 - :computer: Também desenvolvo aplicações como sites e ecommerces usando Wordpress e Elementor.
 
