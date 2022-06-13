@@ -1,36 +1,26 @@
-# Olá, sou Dassaev Lima
-## Desenvolvedor Web
+<p align="left"> 
+ 🖖 Olá, meu nome é Dassaev lima. Sou <strong>Front-end developer</strong> .
+</p>
+
+<p align="left">
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, VueJs, e Wordpress</strong>.
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Netlify, Git e GitHub.</strong>
+</p>
 
 
-### Estatísticas
-<div style="text-align: center">
-<img src="https://github-readme-stats.vercel.app/api?username=dassaev-lima&show_icons=true&theme=vue-dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassaev-lima&layout=compact&theme=vue-dark&langs_count=8)](https://github.com/dassaev-limagithub-readme-stats" height="195px"/>   
-</div>
+<br>
 
-### Frameworks e Bibliotecas
-<div style="text-align: center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50px"/>
-</div>
-
-### Linguagens de Programação
-<div style="text-align: center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px"/>  
-</div>
+<p align="left">
+  <a href="https://www.instagram.com/dassaev_lima/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/dassaev_lima"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/dassaev-lima-58a62a1aa/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/dassaev-lima-58a62a1aa/"/>
+  </a>
        
-### SGBDs
-<div style="text-align: center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50px"//>
-</div>
+</p>
 
-### Outras Habilidades
-<div style="text-align: center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50px"/>
-
-</div>
