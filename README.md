@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/dassaev_lima"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/dassaev-lima-58a62a1aa/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/dassaev-lima-58a62a1aa/"/>
+  <a href="https://www.linkedin.com/in/dassaev-lima/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/dassaev-lima/"/>
   </a>
        
 </p>
