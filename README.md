@@ -1,6 +1,6 @@
 # Dassaev Lima
 
-Frontend Developer | UI/UX Enthusiast
+software Engineer | Frontend Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dassaev%20Lima-3B8640?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dassaev-lima/)](https://www.linkedin.com/in/dassaev-lima/)
 [![Gmail Badge](https://img.shields.io/badge/-dassaevnascimento@gmail.com-3B8640?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dassaevnascimento@gmail.com)](mailto:dassaevnascimento@gmail.com)
